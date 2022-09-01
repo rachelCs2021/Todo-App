@@ -1,0 +1,29 @@
+{
+  "todos": [
+    {
+      "title": "מטלה",
+      "description": "הגשת מטלה למקום עבודה",
+      "date": "1 בספטמבר ",
+      "priority": "high",
+      "repeat": "חד פעמי",
+      "id": 1,
+      "reminder": true
+    },
+    {
+      "title": "קניות",
+      "description": "לקנות כל מה שחסר בבית",
+      "date": "מחר",
+      "priority": "medium",
+      "repeat": "מדי שבוע",
+      "id": 2
+    },
+    {
+      "title": "נקיון",
+      "description": "לשטוף כלים ולנקות את הרצפה",
+      "date": "מחר",
+      "priority": "low",
+      "repeat": "מדי יום",
+      "id": 3
+    }
+  ]
+}
